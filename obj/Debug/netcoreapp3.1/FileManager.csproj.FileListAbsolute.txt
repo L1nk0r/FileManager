@@ -1,0 +1,12 @@
+/Users/boriskozlov/Desktop/HSE/FileManager/FileManager/bin/Debug/netcoreapp3.1/FileManager.deps.json
+/Users/boriskozlov/Desktop/HSE/FileManager/FileManager/bin/Debug/netcoreapp3.1/FileManager.runtimeconfig.json
+/Users/boriskozlov/Desktop/HSE/FileManager/FileManager/bin/Debug/netcoreapp3.1/FileManager.runtimeconfig.dev.json
+/Users/boriskozlov/Desktop/HSE/FileManager/FileManager/bin/Debug/netcoreapp3.1/FileManager.dll
+/Users/boriskozlov/Desktop/HSE/FileManager/FileManager/bin/Debug/netcoreapp3.1/FileManager.pdb
+/Users/boriskozlov/Desktop/HSE/FileManager/FileManager/obj/Debug/netcoreapp3.1/FileManager.csprojAssemblyReference.cache
+/Users/boriskozlov/Desktop/HSE/FileManager/FileManager/obj/Debug/netcoreapp3.1/FileManager.AssemblyInfoInputs.cache
+/Users/boriskozlov/Desktop/HSE/FileManager/FileManager/obj/Debug/netcoreapp3.1/FileManager.AssemblyInfo.cs
+/Users/boriskozlov/Desktop/HSE/FileManager/FileManager/obj/Debug/netcoreapp3.1/FileManager.csproj.CoreCompileInputs.cache
+/Users/boriskozlov/Desktop/HSE/FileManager/FileManager/obj/Debug/netcoreapp3.1/FileManager.dll
+/Users/boriskozlov/Desktop/HSE/FileManager/FileManager/obj/Debug/netcoreapp3.1/FileManager.pdb
+/Users/boriskozlov/Desktop/HSE/FileManager/FileManager/obj/Debug/netcoreapp3.1/FileManager.genruntimeconfig.cache
